@@ -17,16 +17,16 @@ const Hero = () => {
               view chart
             </a>
             <a
-              href=""
+              href="https://mobile.twitter.com/NeverFkingSell"
               className="block lg:hidden text-3xl px-5 py-3 bg-black text-white"
             >
               twitter
-            </a>{" "}
+            </a>
             <a
-              href=""
+              href="https://t.me/NeverfuckingSelling"
               className="block lg:hidden text-3xl px-5 py-3 bg-forth text-white"
             >
-              contract
+              telegram
             </a>
           </div>
         </div>
