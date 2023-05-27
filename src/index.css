@@ -1,0 +1,21 @@
+@import url("https://fonts.cdnfonts.com/css/pokemon-solid");
+@import url("https://fonts.cdnfonts.com/css/pokemon-solid");
+
+@font-face {
+  font-family: Bazinga;
+  src: url(./assets/Fonts/Bazinga-Regular.otf);
+}
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer {
+  .outlinet {
+    color: transparent !important;
+    -webkit-text-stroke: 1px white;
+  }
+  img {
+    @apply mx-auto;
+  }
+}
