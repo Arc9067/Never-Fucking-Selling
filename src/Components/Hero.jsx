@@ -34,6 +34,12 @@ const Hero = () => {
             >
               telegram
             </a>
+            <a
+              href="mailto:Marketing@teamketchup.site"
+              className="block lg:hidden text-3xl px-5 py-3 bg-secondary text-white"
+            >
+              email
+            </a>
           </div>
         </div>
         <img src={Logo} alt="" className="md:order-2 md:w-10/12" />

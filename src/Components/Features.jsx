@@ -16,7 +16,10 @@ const Features = () => {
             ticker: <span>#NFS</span>
           </p>
           <p className="text-3xl md:text-4xl">
-            ca: <span>0x739039303...</span>
+            ca:{" "}
+            <span className=" block md:inline">
+              0x3ae080bcb4b2ba9b984112aa14954be202dcb5ee
+            </span>
           </p>
           <p className="text-3xl md:text-4xl">
             total supply: <span>1,000,000</span>
