@@ -13,7 +13,7 @@ const Features = () => {
             name: <span>never fucking selling</span>
           </p>
           <p className="text-3xl md:text-4xl">
-            ticker: <span>#NFC</span>
+            ticker: <span>#NFS</span>
           </p>
           <p className="text-3xl md:text-4xl">
             ca: <span>0x739039303...</span>
