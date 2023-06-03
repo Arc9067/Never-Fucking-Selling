@@ -23,13 +23,13 @@ const Hero = () => {
               view chart
             </a>
             <a
-              href="https://mobile.twitter.com/NeverFkingSell"
+              href="https://mobile.twitter.com/"
               className="block lg:hidden text-3xl px-5 py-3 bg-black text-white"
             >
               twitter
             </a>
             <a
-              href="https://t.me/NeverfuckingSelling"
+              href="https://t.me/"
               className="block lg:hidden text-3xl px-5 py-3 bg-forth text-white"
             >
               telegram
