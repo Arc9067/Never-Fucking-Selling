@@ -15,11 +15,17 @@ const Header = () => {
           never fucking selling
         </a>
         <div className="hidden lg:flex gap-5">
-          <a href="" className="flex items-center text-3xl gap-3">
+          <a
+            href="https://t.me/NeverFuckingSellingportal"
+            className="flex items-center text-3xl gap-3"
+          >
             <TbBrandTelegram className="text-white" />
             telegram
           </a>
-          <a href="" className="-rotate-2 flex items-center text-3xl gap-3">
+          <a
+            href="https://twitter.com/NeverFuckingSel"
+            className="-rotate-2 flex items-center text-3xl gap-3"
+          >
             <BsTwitter className="text-white" />
             twitter
           </a>
