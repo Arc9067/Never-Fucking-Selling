@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="https://t.me/NeverFuckingSellingportal">
           <FaTelegramPlane className="text-primary" size={52} />
         </a>
-        <a href="mailto:">
+        <a href="mailto:neverselling@gmail.com">
           <MdMail className="text-primary" size={52} />
         </a>
       </div>

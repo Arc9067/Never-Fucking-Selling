@@ -29,7 +29,7 @@ const Hero = () => {
               telegram
             </a>
             <a
-              href="mailto:Marketing@teamketchup.site"
+              href="mailto:neverselling@gmail.com"
               className="block lg:hidden text-3xl px-5 py-3 bg-secondary text-white"
             >
               email
