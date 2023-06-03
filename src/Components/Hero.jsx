@@ -23,7 +23,7 @@ const Hero = () => {
               twitter
             </a>
             <a
-              href="https://t.me/"
+              href="https://t.me/NeverFuckingSellingportal"
               className="block lg:hidden text-3xl px-5 py-3 bg-forth text-white"
             >
               telegram
